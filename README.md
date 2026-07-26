@@ -7,36 +7,38 @@
 - **Course:** IT353 – System Analysis and Design
 - **Project:** Student Activities Management System (SAMS)
 
-## Assigned Task
+## My Assigned Task
 
-My individual contribution focuses on **Task 2: Prototyping**.
+My part in the project was **Task 2: Prototyping**.
 
-The task includes:
+For this task, I worked on the following:
 
-- Selecting an appropriate prototyping approach
-- Explaining and justifying Evolutionary Prototyping
-- Developing three low-fidelity prototypes:
+- Choosing a suitable prototyping approach
+- Explaining why Evolutionary Prototyping was selected
+- Creating three low-fidelity prototype screens:
   1. Student Home and Activity Search
   2. Activity Details and Registration
   3. Organizer Management Dashboard
 
-## Repository Contents
+## Repository Files
 
 - `Hussain_Task2_Prototyping.docx`  
-  Complete Task 2 report with the approach justification and three prototypes.
+  This file contains my full Task 2 work, including the prototyping approach, explanation, and the three prototype screens.
 
 - `screen-1-student-home.png`  
-  Student home and activity search prototype.
+  This image shows the student home page and activity search screen.
 
 - `Hussain_Screen2_Activity_Details.drawio.png`  
-  Activity details and registration prototype.
+  This image shows the activity details and registration screen.
 
 - `Hussain_Screen3_Organizer_Dashboard.drawio.png`  
-  Organizer management dashboard prototype.
+  This image shows the organizer management dashboard.
 
 ## Prototyping Approach
 
-Evolutionary Prototyping was selected because the system includes different user roles and requirements. The prototypes can be reviewed, improved gradually, and refined based on user feedback.
+I selected Evolutionary Prototyping because the SAMS system has different users with different needs. The first prototype can be reviewed and improved step by step based on feedback from students, organizers, and Student Affairs staff.
+
+This approach is useful because the prototype does not need to be discarded. It can be updated gradually until it becomes closer to the final system.
 
 ## Tools Used
 
